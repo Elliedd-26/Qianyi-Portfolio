@@ -1,6 +1,6 @@
 # 🌟 Welcome to My Portfolio  
 
-<div align="center">
+<div align="left">
   <img src="profile.JPG" alt="My Profile Picture" width="150px" style="border-radius: 50%; border: 3px solid #c8a2c8;">
 </div>
 
