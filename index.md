@@ -17,7 +17,7 @@ Take a look at my work:
 
 ## 📬 Get in Touch  
 📍 Toronto, Canada  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-📷 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ellie-dong/)  
+📷 [GitHub](https://github.com/Elliedd-26)  
 
 [✨ See My Work](/projects.md) | [📞 Contact Me](/contact.md)
