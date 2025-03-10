@@ -25,4 +25,4 @@ A **community-based resource-sharing** platform for travelers and locals.
 ---
 
 ## 🔗 Navigation  
-[⬅ Back to Home](index.md) | [📞 Contact Me](contact.md)
+[⬅ Back to Home](/index.md) | [📞 Contact Me](/contact.md)
