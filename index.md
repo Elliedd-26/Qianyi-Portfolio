@@ -13,11 +13,11 @@ I specialize in **user-centered design** and **intuitive interfaces**. My passio
 
 ## 🚀 Projects  
 Take a look at my work:  
-🔗 [View My Projects](projects.md)
+🔗 [View My Projects](/projects.md)
 
 ## 📬 Get in Touch  
 📍 Toronto, Canada  
 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 📷 [GitHub](https://github.com/yourusername)  
 
-[✨ See My Work](projects.md) | [📞 Contact Me](/contact.md)
+[✨ See My Work](/projects.md) | [📞 Contact Me](/contact.md)
