@@ -1,7 +1,7 @@
 # 🌟 Welcome to My Portfolio  
 
 <div align="center">
-  <img src="profile.jpg" alt="My Profile Picture" width="150px" style="border-radius: 50%; border: 3px solid #c8a2c8;">
+  <img src="profile.JPG" alt="My Profile Picture" width="150px" style="border-radius: 50%; border: 3px solid #c8a2c8;">
 </div>
 
 👋 Hi, I'm **Qianyi**, a passionate UX/UI Designer and Developer.
